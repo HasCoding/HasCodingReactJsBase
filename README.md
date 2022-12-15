@@ -3,7 +3,7 @@
 1. Bir klasör oluşturun `mkdir <FolderName>`
 2. Klasörün içine girin `cd <FolderName>`
 3. Repository'yi klonlayın
-   (`git clone https://github.com/HasCoding/HasCodingReactBase.git .`).
+   (`git clone https://github.com/HasCoding/HasCodingReactJsBase.git .`).
 4. `npm install` yazarak gerekli modülleri kurun.
 5. `npm start` yazarak başlatın.
 
@@ -16,8 +16,3 @@
 4. tailwindcss
 5. postcss
 6. autoprefixer  
-
-
-# Basit Demo
-
-[https://hascoding.github.io/HasCodingReactBase/](https://hascoding.github.io/HasCodingReactBase/)
